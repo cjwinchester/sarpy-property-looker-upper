@@ -1,4 +1,4 @@
-sarpy-property-looker-upper
+Sarpy bulk property search
 ===========================
 
-Feed it a list of Sarpy County parcel IDs in Sarpy County. Get back tax and assessment information.
+Feed in a list of Sarpy County parcel IDs. Get back tax and assessment information.
